@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Luyện Thi Trắc Nghiệm CNTT Cơ Bản - Thi Thử Random 40 Câu</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-50 text-slate-800 min-h-screen flex flex-col items-center py-8 px-4">
+    <div class="max-w-3xl w-full bg-white shadow-lg rounded-2xl p-6 sm:p-8 mb-8">
+        <header class="text-center border-b pb-6 mb-6">
+            <h1 class="text-2xl sm:text-3xl font-bold text-blue-700 mb-2">Luyện Thi Trắc Nghiệm CNTT Cơ Bản</h1>
+            <p class="text-slate-500 text-sm">Hệ thống tự động tải từ tệp JSON và bốc ngẫu nhiên 40 câu hỏi (Có tính giờ 30 phút)</p>
+            
+            <div id="controls" class="mt-6 flex flex-wrap justify-center gap-4">
+                <button onclick="loadAndStartQuiz()" class="bg-blue-600 hover:bg-blue-700 text-white font-semibold px-6 py-3 rounded-xl shadow transition duration-200 flex items-center gap-2">
+                    🔄 Tải & Random Đề Mới (40 Câu)
+                </button>
+            </div>
+        </header>
+
+        <!-- Timer & Info bar -->
+        <div id="quiz-info" class="hidden flex justify-between items-center bg-blue-50 border border-blue-200 rounded-xl p-4 mb-6 text-sm font-medium text-blue-800">
+            <div>⏱️ Thời gian còn lại: <span id="timer" class="font-bold text-red-600 text-base">30:00</span></div>
+            <div>📊 Số câu: <span class="font-bold">40 câu</span></div>
+        </div>
+
+        <!-- Quiz Container -->
+        <div id="quiz-container" class="space-y-6">
+            <div class="text-center py-12 text-slate-400">
+                Nhấn nút <strong class="text-blue-600">"Tải & Random Đề Mới (40 Câu)"</strong> ở trên để bắt đầu làm bài thi thử!
+            </div>
+        </div>
+
+        <!-- Submit Button -->
+        <div id="submit-container" class="hidden mt-8 text-center border-t pt-6">
+            <button onclick="submitQuiz()" class="bg-emerald-600 hover:bg-emerald-700 text-white font-bold px-8 py-3 rounded-xl shadow-lg transition duration-200">
+                Nộp Bài & Xem Kết Quả
+            </button>
+        </div>
+
+        <!-- Result Box -->
+        <div id="result-box" class="hidden mt-8 p-6 bg-emerald-50 border border-emerald-200 rounded-2xl text-center">
+            <h2 class="text-2xl font-bold text-emerald-800 mb-2">Kết Quả Bài Thi</h2>
+            <p id="score-text" class="text-lg font-semibold text-slate-700 mb-4"></p>
+            <button onclick="loadAndStartQuiz()" class="bg-blue-600 hover:bg-blue-700 text-white font-semibold px-6 py-2.5 rounded-xl shadow transition">
+                Làm Đề Khác Ngay
+            </button>
+        </div>
+    </div>
+
+    <script>
+        let questionBank = [];
+        let currentQuestions = [];
+        let timerInterval = null;
+        let timeLeft = 30 * 60;
+
+        async function loadAndStartQuiz() {
+            if (questionBank.length === 0) {
+                try {
+                    let response = await fetch('questions.json');
+                    if (!response.ok) throw new Error('Không thể tải file questions.json');
+                    questionBank = await response.json();
+                } catch (error) {
+                    alert("Lỗi: Không thể tải tệp JSON câu hỏi. Hãy chắc chắn bạn đang chạy qua Local Server (như Live Server trên VS Code) hoặc Python để tránh lỗi bảo mật CORS!");
+                    console.error(error);
+                    return;
+                }
+            }
+            startQuiz();
+        }
+
+        function shuffle(array) {
+            let currentIndex = array.length, randomIndex;
+            while (currentIndex != 0) {
+                randomIndex = Math.floor(Math.random() * currentIndex);
+                currentIndex--;
+                [array[currentIndex], array[randomIndex]] = [array[randomIndex], array[currentIndex]];
+            }
+            return array;
+        }
+
+        function startQuiz() {
+            document.getElementById('quiz-info').classList.remove('hidden');
+            document.getElementById('submit-container').classList.remove('hidden');
+            document.getElementById('result-box').classList.add('hidden');
+            
+            let shuffled = shuffle([...questionBank]);
+            currentQuestions = shuffled.slice(0, 40);
+
+            let container = document.getElementById('quiz-container');
+            container.innerHTML = '';
+
+            currentQuestions.forEach((q, index) => {
+                let qDiv = document.createElement('div');
+                qDiv.className = 'p-5 bg-slate-50 border border-slate-200 rounded-xl';
+                
+                let optsHtml = '';
+                q.options.forEach((opt, optIdx) => {
+                    let optLabel = ['a', 'b', 'c', 'd'][optIdx];
+                    optsHtml += `
+                        <label class="flex items-start gap-3 p-2.5 rounded-lg hover:bg-white cursor-pointer transition">
+                            <input type="radio" name="question_${index}" value="${optIdx}" class="mt-1 text-blue-600 focus:ring-blue-500">
+                            <span class="text-slate-700 text-sm sm:text-base"><strong class="text-slate-900">${optLabel}.</strong> ${opt}</span>
+                        </label>
+                    `;
+                });
+
+                qDiv.innerHTML = `
+                    <p class="font-semibold text-slate-900 mb-3">Câu ${index + 1}: ${q.q}</p>
+                    <div class="space-y-1">${optsHtml}</div>
+                `;
+                container.appendChild(qDiv);
+            });
+
+            clearInterval(timerInterval);
+            timeLeft = 30 * 60;
+            updateTimerDisplay();
+            timerInterval = setInterval(() => {
+                timeLeft--;
+                updateTimerDisplay();
+                if (timeLeft <= 0) {
+                    clearInterval(timerInterval);
+                    alert("Đã hết thời gian làm bài!");
+                    submitQuiz();
+                }
+            }, 1000);
+
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+
+        function updateTimerDisplay() {
+            let minutes = Math.floor(timeLeft / 60);
+            let seconds = timeLeft % 60;
+            document.getElementById('timer').innerText = 
+                `${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
+        }
+
+        function submitQuiz() {
+            clearInterval(timerInterval);
+            let score = 0;
+            let total = currentQuestions.length;
+
+            currentQuestions.forEach((q, index) => {
+                let selected = document.querySelector(`input[name="question_${index}"]:checked`);
+                let qDiv = document.getElementById('quiz-container').children[index];
+                
+                let labels = qDiv.querySelectorAll('label');
+                labels.forEach((label, optIdx) => {
+                    let input = label.querySelector('input');
+                    if (optIdx === q.correct) {
+                        label.classList.add('bg-emerald-100', 'border', 'border-emerald-300', 'font-medium');
+                    }
+                    if (selected && parseInt(selected.value) === optIdx && optIdx !== q.correct) {
+                        label.classList.add('bg-rose-100', 'border', 'border-rose-300');
+                    }
+                    input.disabled = true;
+                });
+
+                if (selected && parseInt(selected.value) === q.correct) {
+                    score++;
+                }
+            });
+
+            document.getElementById('submit-container').classList.add('hidden');
+            let resultBox = document.getElementById('result-box');
+            let scoreText = document.getElementById('score-text');
+            
+            let diemThang10 = ((score / total) * 10).toFixed(2);
+            scoreText.innerHTML = `Bạn trả lời đúng <strong class="text-emerald-600">${score} / ${total}</strong> câu.<br>Điểm quy đổi: <span class="text-2xl font-bold text-blue-600">${diemThang10} / 10.00 điểm</span>`;
+            resultBox.classList.reset = true; // dummy
+            resultBox.classList.remove('hidden');
+
+            window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' });
+        }
+    </script>
+</body>
+</html>
