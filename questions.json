@@ -1968,8 +1968,7 @@
             "Lưu file hiện tại"
         ],
         "correct": 2
-    }
-    [
+    },
     {
         "q": "Tại D2 có công thức \"=B1+C1\", khi sao chép sang ô E2 thì E2 có công thức là:",
         "options": [
@@ -2119,8 +2118,7 @@
             "Vào Insert/ Info/Chọn Protect Document/ Encrypt with Password"
         ],
         "correct": 2
-    }
-    [
+    },
     {
         "q": "Trong Microsoft Excel, công thức sau trả về giá trị nào: = IF(5 >= 5, \"Không được tuyển dụng\")",
         "options": [
@@ -2270,8 +2268,7 @@
             "Kí hiệu @"
         ],
         "correct": 3
-    }
-    [
+    },
     {
         "q": "Sheet được chèn thêm vào bảng tính sẽ nằm ở vị trí:",
         "options": [
@@ -2421,8 +2418,7 @@
             "Tất cả đều đúng"
         ],
         "correct": 0
-    }
-    [
+    },
     {
         "q": "Nút Stop trên cửa số trình duyệt web dùng để làm gì?",
         "options": [
@@ -2544,7 +2540,7 @@
         "correct": 1
     },
     {
-        "q": "Trong Word, để đính kèm văn bản vào Email ta thực hiện:",
+        "q": "In Word, để đính kèm văn bản vào Email ta thực hiện:",
         "options": [
             "Vào File/Save & Send/ Send Using E_mail",
             "Vào View/Save & Send/ Send Using E_mail",
@@ -2554,7 +2550,7 @@
         "correct": 0
     },
     {
-        "q": "Trong Word để đổ màu cho một ô trong bảng ta thực hiện?",
+        "q": "In Word để đổ màu cho một ô trong bảng ta thực hiện?",
         "options": [
             "Chọn ô cần đổ màu/Vào Home/ Layout/ Chọn biểu tượng Shading",
             "Chọn ô cần đổ màu/Vào Table Tools/ Layout/ Chọn biểu tượng Shading",
@@ -2564,7 +2560,7 @@
         "correct": 3
     },
     {
-        "q": "Trong Powerpoint, tổ hợp phím Shift + Alt + F9 được sử dụng để?",
+        "q": "In Powerpoint, tổ hợp phím Shift + Alt + F9 được sử dụng để?",
         "options": [
             "Tất cả đều sai",
             "Tắt thanh thước kẻ",
@@ -2574,7 +2570,7 @@
         "correct": 2
     },
     {
-        "q": "Trong PowerPoint, thao tác nào sau đây để bổ sung mẫu giao diện của tập tin trình diễn hiện tại vào chương trình?",
+        "q": "In PowerPoint, thao tác nào sau đây để bổ sung mẫu giao diện của tập tin trình diễn hiện tại vào chương trình?",
         "options": [
             "Vào Design / More / Save Current Theme .",
             "Vào File / More / Save Current Theme.",
@@ -2584,7 +2580,7 @@
         "correct": 0
     },
     {
-        "q": "Trong Powerpoint, để thêm 1 slide giống slide được chọn ta dùng tố hợp phím lệnh nào sau đây?",
+        "q": "In Powerpoint, để thêm 1 slide giống slide được chọn ta dùng tố hợp phím lệnh nào sau đây?",
         "options": [
             "ALT + H + I + D",
             "ALT + H + E + D",
@@ -2714,7 +2710,7 @@
         "correct": 0
     },
     {
-        "q": "Trong Word muốn hiển thị đường biên văn bản ta thực hiện",
+        "q": "In Word muốn hiển thị đường biên văn bản ta thực hiện",
         "options": [
             "View/Options/Advanced/đánh dấu lựa chọn Show Text Boundaries",
             "File/Options/Advanced/đánh dấu lựa chọn Show Text Boundaries",
@@ -2744,7 +2740,7 @@
         "correct": 3
     },
     {
-        "q": "Trong Powerpoint, cách nào để trình diễn từ slide đầu tiên?",
+        "q": "In Powerpoint, cách nào để trình diễn từ slide đầu tiên?",
         "options": [
             "Ctrl + F5",
             "Shift + F5",
