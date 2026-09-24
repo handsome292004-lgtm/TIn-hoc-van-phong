@@ -1,0 +1,2826 @@
+[
+    {
+        "q": "Trong Powerpoint, thao tác Ctrl + S dùng để làm gì?",
+        "options": [
+            "Đóng file hiện tại",
+            "Xóa file hiện tại",
+            "Sao chép file hiện tại",
+            "Lưu file hiện tại"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Trong Microsoft Exce, giả sử tại ô B5 có công thức = A1+$B$2+C$3. Sau khi sao chép công thức đó từ ô B5 đến ô D8 sẽ có công thức:",
+        "options": [
+            "C4 + $B$2 + E$3",
+            "C1 + $B$2 + E$3",
+            "Báo lỗi",
+            "A4 + $B$2 + C$3"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Trong hệ điều hành Windows, phần mở rộng trong tên file đảm nhận chức năng nào sau đây?",
+        "options": [
+            "Quy định kiểu file",
+            "Quy định kích thước file",
+            "Quy định thuộc tính file",
+            "Quy định định dạng file"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Trong Word để đánh dấu đề mục, ta thực hiện thao tác",
+        "options": [
+            "Tab Home/ nhóm Clipboard/ Bullets",
+            "Tab Home/ nhóm Paragraph/ Bullets",
+            "Tab Home/ nhóm Font/ Numbering",
+            "Tab Home/ nhóm Font/ Bullets"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Phát biểu nào sau đây đúng?",
+        "options": [
+            "Trong chương trình Microsoft PowerPoint, chúng ta chỉ có thể thay đổi theme một lần.",
+            "Tất cả ý trên đều sai.",
+            "Trong chương trình Microsoft PowerPoint, chúng ta có thể thiết lập các tùy chọn cho một slide hay một tập slide cùng một lúc.",
+            "In chương trình Microsoft PowerPoint, chúng ta chỉ có thể thiết lập các tùy chọn cho một slide và không thể thiết lập cho một tập slide cùng một lúc."
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Trong Powerpoint, cách nào để thêm 1 Slide mới?",
+        "options": [
+            "Kích chuột phải vào Slide/Copy",
+            "Kích chuột phải vào Slide/New Slide",
+            "Kích chuột phải vào Slide/Cut",
+            "Kích chuột phải vào Slide/Delete"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Khi muốn tải lại nội dung của một trang web đang mở sẵn, ta dùng:",
+        "options": [
+            "Nhấn F1",
+            "Nhấn F5",
+            "Nhấn F4",
+            "Nhấn Enter"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Trong PowerPoint, thao tác nào để chuyển đối tượng vẽ từ lớp dưới cùng của nhiều lớp lên trên một lớp?",
+        "options": [
+            "Vào Home/Arrange/Sent to Back",
+            "Vào Home/Arrange/Bring to Front",
+            "Vào Home/Arrange/Bring Forward",
+            "Vào Home/Arrange/Send Backward"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "HTTP là gì?",
+        "options": [
+            "Là ngôn ngữ để soạn thảo nội dung các trang Web",
+            "Là giao thức truyền tải siêu văn bản",
+            "Là tên của trang web",
+            "Là địa chỉ của trang Web"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Để bảo vệ dữ liệu ta phải làm gì?",
+        "options": [
+            "Chia sẻ dữ liệu cho nhiều người dùng",
+            "Không sao lưu dữ liệu để lưu trữ",
+            "Không đặt mật khẩu bảo vệ tài liệu",
+            "Sao lưu dữ liệu thường xuyên"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Trình duyệt web không thể hiển thị trang web yêu cầu, có thể do:",
+        "options": [
+            "Địa chỉ truy cập là một trang web cá nhân",
+            "Địa chỉ truy cập không tồn tại hoặc địa chỉ truy cập bị nhà quản trị mạng ngăn không cho truy cập",
+            "Địa chỉ truy cập không nằm trên máy chủ của Việt Nam",
+            "Địa chỉ truy cập không được lưu vào bộ nhớ đệm của trình duyệt"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Tốc độ của máy tính phụ thuộc vào các yếu tố nào sau đây?",
+        "options": [
+            "Tất cả các đáp án đều đúng",
+            "Hệ điều hành và quá trình tiến hành gom các tệp tin đã bị phân mảnh theo định kỳ",
+            "Tốc độ của bộ vi xử lý. Tốc độ, dung lượng và không gian trống của ổ cứng",
+            "Dung lượng bộ nhớ truy cập ngẫu nhiên RAM"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "WWW là viết tắt của?",
+        "options": [
+            "Word Wide Website",
+            "World Wide Web",
+            "Word Wide Wed",
+            "Word Wild Web"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Khi nhấp lệnh in 1 trang web các thông tin hiển thị như tên trang web, số trang hiện tại, địa chỉ trang web, ngày tháng được điều chỉnh tại mục nào của hộp thoại?",
+        "options": [
+            "Orientation",
+            "Headers and Footers",
+            "Margin",
+            "Paper"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Trong hệ điều hành Windows, để sửa lại ngày/giờ cho hệ thống máy tính, sử dụng công cụ nào sau đây?",
+        "options": [
+            "Date and Time trong cửa sổ My Networking",
+            "Date and Time trong cửa sổ Internet Explorer",
+            "Date and Time trong cửa sổ Control Panel",
+            "Date and Time trong cửa sổ My Computer"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Trong khi soạn thảo văn bản, nếu kết thúc 1 đoạn (Paragraph) muốn ngắt dòng và sang 1 đoạn mới:",
+        "options": [
+            "Bấm tổ hợp phím Ctrl - Enter",
+            "Word tự động, không cần bấm phím",
+            "Bấm phím Enter",
+            "Bấm tổ hợp phím Shift - Enter"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Lệnh nào cho phép lưu tài liệu vào trong máy tính:",
+        "options": [
+            "File/Option/Save",
+            "File/Save",
+            "File/Close",
+            "File/Save as wizard"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Đâu là ví dụ của mật khẩu tốt?",
+        "options": [
+            "Mật khẩu phải giống lý lịch người sử dụng (ngày tháng năm sinh)",
+            "Mật khẩu nhiều hơn 7 ký tự gồm cả chữ hoa, số, ký tự đặc biệt",
+            "Mật khẩu chỉ gồm chữ hoặc số",
+            "Chọn một mật khẩu có ít hơn 6 ký tự"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Trong Word bảng có kích thước 5x6 có nghĩa là",
+        "options": [
+            "Bảng gồm 5 dòng 6 cột",
+            "Bảng gồm 30 cột",
+            "Bảng gồm 30 dòng",
+            "Bảng gồm 5 cột 6 dòng"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Tác hại khi ngồi lâu trước máy tính?",
+        "options": [
+            "Căng thẳng thần kinh",
+            "Mỏi mắt",
+            "Tất cả các đáp án đều đúng",
+            "Đau lưng"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Để nhập nội dung vào Header và Footer của Microsoft Excel, thực hiện:",
+        "options": [
+            "Insert -> Header & Footer",
+            "Page Layout -> Orientation -> Landscape",
+            "Insert -> WordArt",
+            "Page Layout -> Textbox"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Các thành phần của tên miền được phân cách bằng ký tự gì?",
+        "options": [
+            "Daus ;",
+            "Dấu \",\"",
+            "Dấu \".\"",
+            "Dấu \""
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Khi một cơ quan mua một chương trình máy tính, trong những trường hợp nào chương trình này có thể được cài đặt miễn phí trong cơ quan đó?",
+        "options": [
+            "Khi nó được sử dụng tối đa cho 3 máy tính một lúc",
+            "Khi chương trình này có giá dưới 100 nghìn đồng",
+            "Khi có sự đồng ý bản quyền cho phép điều này",
+            "Khi cơ quan đó có dưới 10 nhân viên"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Trong cửa sổ Microsoft Excel đang mở, tổ hợp phím nào tạo mới một tệp Excel khác?",
+        "options": [
+            "Ctrl + N",
+            "Ctrl + W",
+            "Ctrl + O",
+            "Ctrl + M"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Khi công thức bị sai, ta có thể gỡ rối đoạn công thức đó bằng phím nào ?",
+        "options": [
+            "F11",
+            "F10",
+            "F9",
+            "F12"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Cấu trúc chung của một bài thuyết trình gồm có bao nhiêu phần ?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "1"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Với thư điện tử, phát biểu nào sau đây là sai?",
+        "options": [
+            "Hai người có thể có địa chỉ thư giống nhau, ví dụ hoahong@yahoo.com",
+            "1 người có thể gửi thư cho chính mình, nhiều lần",
+            "Có thể gửi 1 thư đến 10 địa chỉ khác nhau",
+            "Tệp tin đính kèm theo thư có thể chứa virút, vậy nên cần kiểm tra virút trước khi sử dụng"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Để văn bản được cuộn trên một ô ta thực hiện?",
+        "options": [
+            "Page Layout\\Alignment\\Wrap Text",
+            "Data\\Alignment\\Wrap Text",
+            "Insert\\Alignment\\Wrap Text",
+            "Home\\Alignment\\Wrap Text"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "In Word chức năng nào sau đây dùng để thay đổi kiểu chữ?",
+        "options": [
+            "Tab Home/ nhóm Font/ Change Case",
+            "Tab Home/ nhóm Font/ Decrease Font Size",
+            "Tab Home/ nhóm Font/ Subscript",
+            "Tab Home/ nhóm Font/ Increase Font Size"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Trong bảng tính Microsoft Excel, công thức =Mod(26,7) cho kết quả:",
+        "options": [
+            "6",
+            "4",
+            "3",
+            "5"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Chương trình điều khiển thiết bị trong các đĩa CD kèm theo khi gắn thêm thiết bị ngoại vi cho máy tính thường gọi là gì?",
+        "options": [
+            "ROM",
+            "Driver",
+            "RAM",
+            "IOS"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "In Powerpoint, cách nào để lựa chọn bố cục cho Slide đã chọn gồm tiêu đề và nội dung?",
+        "options": [
+            "Home/Layout/Title Slide",
+            "Home/Layout/Title and Content",
+            "Home/Layout/Title Slide",
+            "Home/Slide Design"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Phím tắt được sử dụng để hiển thị thực đơn Start?",
+        "options": [
+            "Ctrl+Tab",
+            "Alt+F4",
+            "Ctrl+Esc",
+            "Alt+Tab"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "In Word để chọn (bôi đen) một đoạn văn bản ta thực hiện:",
+        "options": [
+            "Click chuột phải 2 lần liên tiếp lên đoạn cần chọn",
+            "Click đúp chuột 2 lên đoạn cần chọn",
+            "Không có đáp án nào đúng",
+            "Click chuột trái 2 lần liên tiếp lên lề bên trái ngoài đoạn cần chọn"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Trong hệ điều hành Windows, muốn khôi phục đối tượng đã xóa, mở cửa sổ Recycle Bin và thực hiện thao tác nào sau đây?",
+        "options": [
+            "Kích chuột phải tại đối tượng, chọn Cut",
+            "Không có đáp án đúng",
+            "Kích chuột phải tại đối tượng, chọn Properties",
+            "Kích chuột phải tại đối tượng, chọn Restore"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Để cắt vùng dữ liệu từ nơi này di chuyển sang nơi khác ta nhấn:",
+        "options": [
+            "Ctrl + P",
+            "Ctrl + V",
+            "Ctrl + C",
+            "Ctrl + X"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Trong hệ điều hành, để xem danh sách các máy in đã được cài đặt, ta có thể sử dụng công cụ nào sau đây?",
+        "options": [
+            "Printers and Faxes",
+            "System Informations",
+            "Default Programs",
+            "Device Manager"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Khi lưu văn bản Microsoft Word, ta có thể lưu với các phần mở rộng là?",
+        "options": [
+            ".docx,.xlsx,.pdf",
+            ".docx,.xls,.pdf",
+            ".doc, .docx,.pdf",
+            ".doc,.xlsx,.pdf"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Quy trình tắt máy tính nào sau đây đảm bảo an toàn cho chương trình và dữ liệu?",
+        "options": [
+            "Không có đáp án đúng",
+            "Đóng các file chương trình, ghi dữ liệu vào đĩa, Shut down Windows",
+            "Ghi dữ liệu vào đĩa, đóng các file chương trình, Chọn nút Start/Shut down",
+            "Đóng các file chương trình, Shut down Windows, tắt công tắc nguồn"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "In Powerpoint, để chuyển sang chế độ hiển thị đọc ta thực hiện?",
+        "options": [
+            "Vào View, chọn Reading Mode",
+            "Vào View, chọn Reading View",
+            "Vào Review, chọn Reading View",
+            "Vào Review, chọn Reading Mode"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Trong Excel biểu thức =SUM(9,1,MAX(3,5,7)) sẽ trả về kết quả là bao nhiêu?",
+        "options": [
+            "13",
+            "19",
+            "15",
+            "17"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "In Powerpoint, để tạo tiêu đề cuối trang cho slide hiện tại?",
+        "options": [
+            "Insert/ Footer and Header/ Chọn Slide Number/ Nhập nội dung",
+            "Insert/ Footer and Header/ Chọn Footer/ Nhập nội dung",
+            "Insert/ Footer and Header/ Chọn Date and Time/ Nhập nội dung",
+            "Insert/ Footer and Header/ Chọn Slide/ Nhập nội dung"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "In Word để tạo đường viền cho một đoạn văn bản, ta thực hiện:",
+        "options": [
+            "Tab Page Layout/ nhóm Paragraph/ Border",
+            "Tab Home/ nhóm Font/ Border",
+            "Tab Design/ nhóm Paragraph/ Border",
+            "Tab Home/ nhóm Paragraph/ Border and Shading"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "File có phần mở rộng là JPG là tệp?",
+        "options": [
+            "File thực thi",
+            "File âm thanh",
+            "File hình ảnh",
+            "File văn bản"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Trong hệ điều hành Windows, để thay đổi hệ đơn vị đo Metric/US cho hệ thống máy tính, sử dụng công cụ nào sau đây?",
+        "options": [
+            "Không có đáp án đúng",
+            "Region trong cửa sổ Internet Explorer",
+            "Region trong cửa sổ My Computer",
+            "Region trong cửa sổ Control Panel"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Công dụng của việc tái chế các bộ phận của máy tính?",
+        "options": [
+            "Gây ô nhiễm môi trường",
+            "Giảm ô nhiễm môi trường",
+            "Giảm các bệnh cho người sử dụng máy tính",
+            "Tiết kiệm chi phí sử dụng cho doanh nghiệp"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "In Powerpoint, lệnh Insert/ Chart dùng để thực hiện công việc gì?",
+        "options": [
+            "Chèn các file âm thanh vào Slide",
+            "Chèn hình ảnh vào Slide",
+            "Chèn công thức toán học vào Slide",
+            "Chèn biểu đồ vào Slide"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Phát biểu nào sau đây là sai?",
+        "options": [
+            "Có thể lấy lại dữ liệu sau khi xóa bằng nhấn tổ hợp phím Shift+Delete",
+            "Thư mục có thể chứa thư mục con và tệp tin",
+            "Có thể biết được một tệp tin trên đĩa CD-ROM có kích thước bao nhiêu Byte",
+            "Có thể sao dữ liệu ra các thiết bị lưu trữ khác nhau"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Một thoả thuận ràng buộc mang tính pháp lý quy định cụ thể các điều khoản về sử dụng một ứng dụng và xác định các quyền của nhà sản xuất và của người dùng cuối là gì?",
+        "options": [
+            "Giấy phép phần mềm (Software License)",
+            "Bản quyền sản xuất (Producer Copyright)",
+            "Thoả thuận không tiết lộ (Non-Disclosure Agreement)",
+            "Thoả thuận người dùng web (Web User Argeement)"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "In Powerpoint, tổ hợp phím Ctrl + V thường được sử dụng để?",
+        "options": [
+            "Xóa 1 đoạn văn bản",
+            "Cắt và sao chép một đoạn văn bản",
+            "Sao chép một đoạn văn bản",
+            "Dán một đoạn văn bản từ Clipboard"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Để xem một trang Web, ta cần gõ địa chỉ của trang đó vào đâu?",
+        "options": [
+            "Thanh địa chỉ của trình duyệt",
+            "Thanh trạng thái của trình duyệt",
+            "Thanh công cụ chuẩn của trình duyệt",
+            "Thanh liên kết của trình duyệt"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Hai người đã tạo được tài khoản thư miễn phí tại địa chỉ MAIL.YAHOO.COM. Phát biểu nào dưới đây là sai?",
+        "options": [
+            "Người này có thể mở được hộp thư của người kia và ngược lại nếu như 2 người biết tên đăng nhập và mật khẩu của nhau",
+            "Hộp thư của cả hai đều nằm trên máy Mail Server của công ty Yahoo",
+            "Hai người này buộc phải lựa chọn hai tên đăng nhập khác nhau",
+            "Mật khẩu mở hộp thư của hai người này phải khác nhau."
+        ],
+        "correct": 3
+    },
+    {
+        "q": "In Word, muốn trình bày văn bản dạng cột (dạng thường thấy trên các trang báo và tạp chí), ta thực hiện:",
+        "options": [
+            "Page Layout - Column",
+            "View - Column",
+            "Table - Column",
+            "Insert - Column"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Sau khi hoàn thành một biểu mẫu trên web, cần thao tác thế nào để gửi biểu mẫu lên máy chủ?",
+        "options": [
+            "Chọn Next",
+            "Chọn Submit",
+            "Chọn Clear",
+            "Chọn Back"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "In PowerPoint, để xóa toàn bộ định dạng đoạn văn bản được chọn?",
+        "options": [
+            "Vào Home / Clear All Formatting",
+            "Vào Insert / Clear All Formatting",
+            "Vào View / Clear All Formatting",
+            "Vào Format / Clear All Formatting"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Trong cửa sổ Microsoft Excel đang mở, tổ hợp phím nào để mở một tệp Excel đã có trên máy tính?",
+        "options": [
+            "Ctrl + N",
+            "Ctrl + M",
+            "Ctrl + O",
+            "Ctrl + W"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Để sắp xếp các cửa sổ văn bản trên màn hình Word theo thứ tự nào đó ta thực hiện như thế nào?",
+        "options": [
+            "Vào View/ Trong nhóm Window chọn kiểu sắp xếp thích hợp",
+            "Vào Review/ Trong nhóm Window chọn kiểu sắp xếp thích hợp",
+            "Vào Insert/ Trong nhóm Window chọn kiểu sắp xếp thích hợp",
+            "Vào Home/ Trong nhóm Window chọn kiểu sắp xếp thích hợp"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "In PowerPoint, thao tác nào sau đây để in trang thuyết trình trên khổ giấy kiểu dọc ?",
+        "options": [
+            "Vào Design/Slide Orientation/Portrait",
+            "Vào Design/Custom Slide Size/Orientation/Notes, Handouts and Outline/ Portrait",
+            "Vào Design/Custom Slide Size/Orientation/Slide/Portrait",
+            "Vào Design/Orientation/Slide/Portrait"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "In Word lề trang tài liệu là gì",
+        "options": [
+            "Là khoảng cách trong tài liệu",
+            "Là khoảng cách giữa cạnh giấy và văn bản trong tài liệu",
+            "Là khoảng cách được tạo do người trình bày văn bản thiết lập",
+            "Là khoảng cách ảo được đo bằng thước ngang"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Khi đọc các thông số cấu hình của một máy tính thông thường: 2GHZ-320GB-4.00GB, con số 4.00GB chỉ điều gì?",
+        "options": [
+            "Chỉ dung lượng của đĩa cứng",
+            "Chỉ dung lượng của bộ nhớ chỉ đọc ROM",
+            "Chỉ dung lượng bộ nhớ truy cập ngẫu nhiên RAM",
+            "Chỉ tốc độ của bộ vi xử lý"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Nếu thí sinh đạt từ 5 điểm trở lên, thí sinh đó được xếp loại Đạt, ngược lại nếu dưới 5 điểm, thì xếp loại Không đạt. Công thức nào dưới đây thể hiện đúng điều này (Giả sử ô G6 đang chứa điểm thi)",
+        "options": [
+            "REF!",
+            "IF(G6<5,\"Không đạt\",\"Đạt\")",
+            "IF(G6<5,\"Đạt\", \"Không đạt\")",
+            "IF(G6>5,\"Đạt\") ELSE (\"Không đạt\")"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Bàn phím máy tính là thiết bị nào trong các thiết bị sau?",
+        "options": [
+            "Thiết bị thoát thông tin",
+            "Thiết bị nhập thông tin",
+            "Thiết bị lưu trữ thông tin",
+            "Thiết bị xuất thông tin"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Trong các câu sau đây, câu nào sai?",
+        "options": [
+            "Thương mại điện tử hoàn toàn độc lập với các hoạt động thương mại truyền thống",
+            "Thương mại điện tử giúp doanh nghiệp vươn ra thị trường thế giới",
+            "Thương mại điện tử là một khái niệm mới mẻ ở Việt Nam",
+            "Thương mại điện tử giúp doanh nghiệp giảm chi phí và tăng hiệu quả trong quảng cáo"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "In windows, để xem những chương trình nào đã được Updates thì chọn chức năng nào trong Control Panel/Programs and Features?",
+        "options": [
+            "View Installed Updates",
+            "Xóa biểu tượng chương trình trong menu Start",
+            "Kích chuột phải tại biểu tượng rồi bấm tổ hợp phím Shift + Delete",
+            "Không làm gì"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Những thiết bị nào sau đây được xếp vào nhóm thiết bị ngoại vi?",
+        "options": [
+            "HDD, CD- ROM Drive, FDD, bàn phím",
+            "Bàn phím, chuột, màn hình, máy in",
+            "Màn hình, CPU, RAM, Main",
+            "Mainboard, CPU, CD-ROM Drive, Chuột"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Trước khi in, để xem trước các tùy chọn in trang bảng tính ta nhấn:",
+        "options": [
+            "ESC+P",
+            "Alt+P",
+            "Shift+P",
+            "Ctrl+P"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Trong các mô tả sau, nơi lưu trữ nào chứa các tệp tin và thư mục trước khi bị xóa hoàn toàn?",
+        "options": [
+            "Thư mục Program File",
+            "Inbox",
+            "Recycle Bin",
+            "Thư mục Documents"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "In Word để tạo đường viền nghệ thuật cho một trang văn bản ta thực hiện:",
+        "options": [
+            "File/Paragraph/Border and Shading/chọn Tab Page Border/ Trong mục Style chọn Art",
+            "Home/Paragraph/Border and Shading/chọn Tab Page Border/ Trong mục Style chọn Art",
+            "Page Layout/Paragraph/Border and Shading/chọn Tab Page Border/ Trong mục Style chọn Art",
+            "Insert/Paragraph/Border and Shading/chọn Tab Page Border/ Trong mục Style chọn Art"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "In Word chức năng Lower Case có tác dụng?",
+        "options": [
+            "Viết hoa ký tự đầu tiên và viết thường các ký tự còn lại",
+            "Viết thường ký tự đầu tiên và viết hoa các ký tự còn lại",
+            "Viết thường toàn bộ đoạn văn được chọn",
+            "Viết thường ký tự đầu tiên"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Phương án nào sau đây là đúng?",
+        "options": [
+            "Khi chuyển sang chế độ Sleep của Windows 7, máy tính vẫn tiêu thụ điện năng",
+            "Khi chuyển sang chế độ Sleep của Windows 7, máy tính không tiêu thụ điện năng",
+            "Khi chuyển sang chế độ Shut down của Windows 7, máy tính vẫn tiêu thụ điện năng",
+            "Khi chuyển sang chế độ Logout của Windows 7, máy tính không tiêu thụ điện năng"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Để giữ cố định hàng được lặp lại qua các trang, ta chọn hàng bên dưới hàng đó và thực hiện:",
+        "options": [
+            "Data\\Freeze Panes",
+            "Page Layout\\Freeze Panes",
+            "Review\\Freeze Panes",
+            "View\\Freeze Panes"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Trong bảng tính Excel, ô A5 chứa “TRAN” và ô B5 chứa “ANH”. Để ổ D5 cho kết quả là “TRAN ANH” (có 1 khoảng trắng ở giữa), ta thực hiện công thức như sau:",
+        "options": [
+            "A5 & B5",
+            "A5 + “ “ + B5",
+            "A5 + B5",
+            "A5 &“ “& B5"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Để khởi động chức năng tìm kiếm thông tin trong Windows, thao tác nào sau đây không đúng?",
+        "options": [
+            "Kích nút Search trong cửa sổ My Computer",
+            "Kích nút Start, chọn Search",
+            "Nhập từ khóa trong ô tìm kiếm trên Windows Explorer, sau đó chọn Date Modified và Size để tìm kiếm theo ngày sửa và kích thước file",
+            "Kích chuột phải tại Desktop, chọn Search"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Email đã soạn thảo sẽ được lưu trữ trong mục nào sau đây nếu người dùng chưa bấm nút gửi thư?",
+        "options": [
+            "Outbox",
+            "Spam",
+            "Sent",
+            "Draft"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Kí hiệu nào sau đây có thể tồn tại trong một địa chỉ Email?",
+        "options": [
+            "Kí hiệu $",
+            "Kí hiệu &",
+            "Kí hiệu @",
+            "Kí hiệu %"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Đâu là thuật ngữ chỉ dịch vụ tin nhắn tức thời?",
+        "options": [
+            "IM (Instant Messaging)",
+            "IM (Internet Message)",
+            "IM (Instant Message)",
+            "IM (Internet Messaging)"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "In Powerpoint, thao tác File/Save dùng để làm gì?",
+        "options": [
+            "Xóa file hiện tại",
+            "Lưu file hiện tại",
+            "Sao chép file hiện tại",
+            "Đóng file hiện tại"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "In Word để di chuyển đến một trang bất kì trong văn bản ta làm thế nào?",
+        "options": [
+            "Bấm tổ hợp phím Ctrl+H, trong mục Enter Page Number nhập số trang cần đến.",
+            "Bấm tổ hợp phím Ctrl+F, trong mục Enter Page Number nhập số trang cần đến.",
+            "Bấm tổ hợp phím Ctrl+D, trong mục Enter Page Number nhập số trang cần đến.",
+            "Bấm tổ hợp phím Ctrl+G, trong mục Enter Page Number nhập số trang cần đến."
+        ],
+        "correct": 3
+    },
+    {
+        "q": "In Powerpoint, cách nào để mở 1 bản trình bày (Presentation) có sẵn trong máy tính?",
+        "options": [
+            "File/Edit",
+            "File/Open",
+            "File/Close",
+            "File/Save"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Trong công thức của Microsoft Excel, sử dụng phím nào để chuyển đổi địa chỉ tuyệt đối sang địa chỉ tương đối hoặc ngược lại cho ô hoặc vùng đã chọn?",
+        "options": [
+            "F2",
+            "F4",
+            "F3",
+            "F5"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "In Word để lưu Text box vào văn bản đã soạn thảo, sau khi chèn và hiệu chỉnh xong Text box ta cần",
+        "options": [
+            "Ấn Alt +S",
+            "Ấn Ctrl +S",
+            "Ấn Shift +S",
+            "Ấn Ctrl+Shift +S"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "In Word đâu là thao tác đúng khi thực hiện thụt đoạn văn bản về bên trái với thông số xác định?",
+        "options": [
+            "Mở hộp thoại Paragraph/Spacing/Right",
+            "Mở hộp thoại Paragraph/Indentation/Right",
+            "Mở hộp thoại Paragraph/Indentation/Left",
+            "Mở hộp thoại Paragraph/Spacing/Left"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Trong hệ điều hành Windows, ứng dụng nào sau đây chứa thông tin như dung lượng của các ổ đĩa cứng, ổ đĩa CD/DVD, USB, tài nguyên trong máy tính?",
+        "options": [
+            "Computer",
+            "Task Bar",
+            "Recycle Bin",
+            "Control Panel"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Trong PowerPoint, sau khi đã chèn một bảng vào slide, muốn chia ô hiện tại thành 2 ô?",
+        "options": [
+            "Nhấn chuột phải và chọn Split Cells.",
+            "Nhấn chuột trái và chọn Split Cells.",
+            "Vào Home / Split Cells",
+            "Vào Table / Split Cells"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "In Powerpoint, đánh dấu 1 đoạn văn bản sau đó nhấn tổ hợp phím CTRL + R, thao tác này tương ứng với lựa chọn nào sau đây?",
+        "options": [
+            "Canh trái đoạn văn được chọn",
+            "Xóa định dạng đoạn văn được chọn",
+            "Canh phải đoạn văn được chọn",
+            "Canh giữa đoạn văn được chọn"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Font chữ yêu cầu theo Thông tư số 01/2011/TT-BNV về thể thức trình bày văn bản là?",
+        "options": [
+            "Tahoma",
+            "Arial",
+            "VNTime",
+            "Times New Roman"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Để chặn các Email không mong muốn, thực hiện thao tác chọn Email, sau đó?",
+        "options": [
+            "Kích nút Forward",
+            "Kích nút Spam",
+            "Kích nút Delete",
+            "Kích nút Reply"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Muốn xóa vĩnh viễn, không cần phục hồi các tệp hoặc thư mục được chọn, cần thực hiện thao tác nào sau đây?",
+        "options": [
+            "Giữ phím Shift và kích chuột phải, chọn Delete",
+            "Giữ phím Insert và kích chuột phải, chọn phím Enter",
+            "Giữ phím Ctrl và kích chuột phải, chọn Delete",
+            "Giữ phím Alt và kích chuột phải, chọn Delete"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Giả sử đã bôi đen một hàng trong Excel. Lệnh nào trong số các lệnh sau cho phép chèn thêm một hàng vào vị trí phía trên hàng đang chọn.",
+        "options": [
+            "Vào thực đơn Insert, chọn Columns",
+            "Vào thực đơn Insert, chọn Object",
+            "Vào thực đơn Insert, chọn Cells",
+            "Vào thực đơn Insert, chọn Rows."
+        ],
+        "correct": 3
+    },
+    {
+        "q": "In Powerpoint, nút lệnh ScreenShot có chức năng?",
+        "options": [
+            "Chụp ảnh màn hình để chèn vào Slide",
+            "Chèn âm thanh vào Slide",
+            "Chèn hình ảnh từ vị trí bất kỳ trong máy vào Slide",
+            "Chèn video vào Slide"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Trong Microsoft Excel, hàm nào để tìm giá trị trung bình của các giá trị được chọn?",
+        "options": [
+            "EVERAGE",
+            "AVERAGE",
+            "ERVERAGE",
+            "AVERGE"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "In PowerPoint, để lật ngang ảnh, ta sử dụng tùy chọn nào sau đây ?",
+        "options": [
+            "Rotate Left 90",
+            "Flip Horizontal",
+            "Rotate Right 90",
+            "Flip Vertical"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Phát biểu nào dưới đây là sai?",
+        "options": [
+            "Thư điện tử luôn có độ tin cậy, an toàn tuyệt đối",
+            "Có thể đính kèm tệp văn bản theo thư điện tử",
+            "Người sử dụng có thể tự tạo cho mình 1 tài khoản sử dụng thư điện tử miễn phí qua trang Web",
+            "Các thư từ máy gửi đến máy nhận qua Internet luôn chuyển tiếp qua máy Server của nhà cung cấp dịch vụ"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Trong hệ điều hành Windows, để thực hiện chọn các file không liên tục trong danh sách file cần thực hiện thao tác nào sau đây?",
+        "options": [
+            "Kích chuột phải tại file đầu, giữ phím F5 sau đó kích chuột tại file cuối",
+            "Giữ phím Alt và kích chuột tại các file cần chọn",
+            "Giữ phím Shift và kích chuột tại các file cần chọn",
+            "Giữ phím Ctrl và kích chuột tại các file cần chọn"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Để gỡ bỏ một máy in đã cài đặt, ta thực hiện theo cách nào sau đây?",
+        "options": [
+            "Chọn Add/Remove Hardware sau đó chọn biểu tượng máy in cần gỡ bỏ",
+            "Tại cửa sổ Printers and Faxes, nhấp phải chuột vào máy in và chọn Remove Device",
+            "Gỡ bỏ máy in trong Control Panel",
+            "Chọn Device Manager sau đó chọn biểu tượng máy in cần gỡ bỏ"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Để văn bản trong ô được chọn có kiểu chữ nghiêng và gạch chân ta chọn tổ hợp phím nào sau:",
+        "options": [
+            "Ctrl+U, Ctrl+I",
+            "Ctrl+H, Ctrl+I",
+            "Ctrl+B, Ctrl+I",
+            "Ctrl+F, Ctrl+I"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "In Word để xóa một văn bản ta thực hiện?",
+        "options": [
+            "Click phải chuột/ Chọn Delete",
+            "Chọn văn bản cần xóa/ Click phải chuột/ Chọn Delete",
+            "Chọn văn bản cần xóa/ Click phải chuột/ Chọn Remove",
+            "Chọn văn bản cần xóa/ Click chuột/ Chọn Delete"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Trong Internet Explorer phiên bản 7 hoặc mới hơn, phím tắt Ctrl + W dùng để làm gì?",
+        "options": [
+            "Thoát khỏi trình duyệt web",
+            "Đóng tab hiện hành",
+            "Trở về trang chủ",
+            "Thêm 1 tab mới"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Trong bảng tính Microsoft Excel, hàm nào sau đây cho phép đếm các giá trị thỏa mãn một điều kiện cho trước:",
+        "options": [
+            "COUNTIF",
+            "COUNT",
+            "SUM",
+            "SUMIF"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Tổ hợp phím Ctrl + C có chức năng gì?",
+        "options": [
+            "Sao chép văn bản được chọn, và đưa vào bộ nhớ đệm",
+            "Phục hồi lại thao tác trước đó",
+            "Hiển thị văn bản từ bộ nhớ đệm",
+            "Di chuyển văn bản được chọn, và đưa vào bộ nhớ đệm"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Hãy chỉ ra phương tiện truyền dẫn thông tin?",
+        "options": [
+            "Cáp điện thoại",
+            "Cáp quang",
+            "Tất cả các đáp án đều đúng",
+            "Sóng vô tuyến"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Phương tiện thanh toán điện tử được dùng phổ biến nhất là gì?",
+        "options": [
+            "Tiền điện tử",
+            "Thẻ ghi nợ",
+            "Thẻ thông minh",
+            "Thẻ tín dụng"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Opera là gì?",
+        "options": [
+            "Thiết bị kết nối các mạng trên Internet",
+            "1 chuẩn mạng cục bộ",
+            "Bộ giao thức",
+            "Trình duyệt web"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Để di chuyển con trỏ chuột trong khi soạn thảo, phím -> (mũi tên sang phải), có chức năng?",
+        "options": [
+            "Sang trái một từ",
+            "Sang phải một từ",
+            "Sang phải một ký tự",
+            "Sang trái một ký tự"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "In Excel, giả sử ô A1 của bảng tính lưu trị ngày 15/10/1970. Kết quả hàm =MONTH(A1) là bao nhiêu?",
+        "options": [
+            "15",
+            "1970",
+            "FALSE",
+            "10"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "In Powerpoint, phần mở rộng của tên file là nhóm ký tự nào?",
+        "options": [
+            "ppts",
+            "ppt",
+            "pptt",
+            "pptx"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "In Word để áp dụng Style cho một đoạn văn bản bất kì ta thực hiện như thế nào?",
+        "options": [
+            "Chọn đoạn văn bản cần áp dụng Style. Vào Tab Home/ Trong nhóm Styles/ chọn Style muốn áp dụng",
+            "Chọn đoạn văn bản cần áp dụng Style. Vào Tab View/ Trong nhóm Styles/ chọn Style muốn áp dụng",
+            "Chọn đoạn văn bản cần áp dụng Style. Vào Tab Insert/ Trong nhóm Styles/ chọn Style muốn áp dụng",
+            "Chọn đoạn văn bản cần áp dụng Style. Vào Tab Review/ Trong nhóm Styles/ chọn Style muốn áp dụng"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "In Word để thay đổi thư mục lưu văn bản mặc định ta thực hiện:",
+        "options": [
+            "File/Save/Default file location",
+            "File/Save/Defaunt file location",
+            "File/Options/Save/Default file location",
+            "File/Options/Save/Auto Recover file location"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Trong bảng tính Microsoft Excel, tại ô A2 có giá trị số 10, tại ô B2 gõ công thức =PRODUCT(A2,5) cho kết quả:",
+        "options": [
+            "10",
+            "50",
+            "15",
+            "2"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Thông tin nào sau đây nói về thư điện tử?",
+        "options": [
+            "Là dịch vụ thực hiện truyền thông tin qua Internet thông qua các hộp thư điện tử",
+            "Người đưa thư chỉ việc để thư ở hòm thư trước nhà người nhận là người nhận có thể biết được nội dung",
+            "Dịch vụ này chưa có",
+            "Là dịch vụ chỉ dành cho những người làm trong lĩnh vực điện tử viễn thông"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Hãy chọn phương án đúng để điền vào dấu 3 chấm: \"... là điểm truy cập tập trung và duy nhất, tích hợp các kênh thông tin dịch vụ, ứng dụng, là một sản phẩm hệ thống phần mềm được phát triển dựa trên một sản phẩm phần mềm cổng lõi\"",
+        "options": [
+            "Tin nội bộ",
+            "Cổng thông tin điện tử",
+            "Trang tin điện tử",
+            "Báo"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Khi muốn lưu lại trang Web đang duyệt lên máy tính, bạn phải làm thế nào trên trình duyệt Internet Explorer?",
+        "options": [
+            "File/ Edit",
+            "File/ Exit",
+            "File/ Save As",
+            "File/ Download"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Diễn đàn (forum) là gì?",
+        "options": [
+            "Là nơi để cho người dùng Internet trao đổi thảo luận và tán gẫu nhau",
+            "Là tổ chức về công nghệ thông tin",
+            "Là một tổ chức về sáng tạo nghệ thuật",
+            "Là một chương trình Chat trực tuyến."
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Để nhanh chóng xem các thí sinh xếp loại \"xuất sắc\", ta bôi đen toàn bộ vùng có chứa dữ liệu cần xem rồi sử dụng công cụ gì trong số các công cụ sau",
+        "options": [
+            "Vào menu Data, chọn Validation",
+            "Vào menu Data, chọn Filter - Autofilter",
+            "Vào menu Tools, chọn Quick view, chọn mức \"xuất sắc\"",
+            "Vào menu View, chọn mức \"xuất sắc\""
+        ],
+        "correct": 1
+    },
+    {
+        "q": "In Powerpoint, lần lượt nhấn phím ALT, phím N, phím T tương ứng với lựa chọn nào sau đây?",
+        "options": [
+            "Vào Insert /Table",
+            "Vào View/Zoom",
+            "Vào Home/Format",
+            "Vào Design/Page Setup"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Phần mềm Windows, Linux có đặc điểm gì chung?",
+        "options": [
+            "Tất cả đều là phần mềm ứng dụng",
+            "Tất cả đều là dịch vụ dải tần rộng",
+            "Tất cả đều là phần mềm hệ điều hành",
+            "Tất cả đều là thiết bị phần cứng"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "In Word để tạo chỉ số dưới ta thực hiện",
+        "options": [
+            "Dùng tổ hợp phím Ctrl +",
+            "Chọn biểu tượng chỉ số dưới (subscript) trên thanh Ribbon (1)",
+            "Dùng tổ hợp phím Ctrl +D, chọn subscript (3)",
+            "Cách (1), (2), (3) đều đúng"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Để trả lời ngay thư điện tử khi đang xem thư, bạn chọn nút nào?",
+        "options": [
+            "Attachment",
+            "Reply",
+            "Compose",
+            "Check Mail"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Để một bài thuyết trình đạt hiệu quả cao, chúng ta cần quan tâm tới vấn đề nào đầu tiên ?",
+        "options": [
+            "Đối tượng nghe bài thuyết trình",
+            "Phương pháp thuyết trình",
+            "Nắm vững nội dung cần thuyết trình",
+            "Hình thức thuyết trình"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Để chuyển đổi giữa các file văn bản đang mở trong Word ta thực hiện:",
+        "options": [
+            "View/Arrange All",
+            "View/Switch Window",
+            "View/Split",
+            "View/Show"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Đặc điểm chính của hệ thống truyền giọng nói trên giao thức IP (Voice over Internet Protocal-VoIP)",
+        "options": [
+            "Phụ thuộc vào loại mạng ảo hỗ trợ nó",
+            "Cung cấp một liên kết đến các mạng điện thoại truyền thống và không trả thêm bất kì một khoản chi phí nào",
+            "Chỉ thực hiện được bằng phần mềm",
+            "Phụ thuộc vào phần cứng được sử dụng"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Phần mềm nào dưới đây nếu không được cài đặt máy tính sẽ không sử dụng được?",
+        "options": [
+            "Vietkey",
+            "Chrome",
+            "Norton AntiVirus",
+            "Windows"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Tại sao cần phải thiết điền vào dòng chủ đề khi gửi thư",
+        "options": [
+            "Để thư của bạn không bị nhầm địa chỉ người nhận",
+            "Vì bạn bắt buộc phải điền vào phần đó thì mới gửi thư được",
+            "Để cung cấp cho người nhận nội dung ngắn gọn của thư",
+            "Để người nhận có thể nhận được thư"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Trong Recycle Bin, để biết chính xác vị trí của một file đã xoá, có thể sử dụng cách nào sau đây?",
+        "options": [
+            "Không có đáp án đúng",
+            "Kích View, chọn Details",
+            "Kích chuột phải tại file, chọn Properties",
+            "Xem phần Details trong khung bên trái màn hình"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Lợi ích của email so với thư thông thường?",
+        "options": [
+            "Tốc độ gửi, nhận thư nhanh",
+            "Khối lượng thư gửi và nhận lớn hơn so với thư thông thường",
+            "Tất cả các đáp án đều đúng",
+            "Tốn ít công vận chuyển, lưu trữ"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "In Word để in một trang hiện hành ta làm thế nào?",
+        "options": [
+            "Nhấn Ctr + P, Chọn Selection Page",
+            "Nhấn Ctr + P, chọn Current Page",
+            "Nhấn Ctr + P, chọn Only Page",
+            "Nhấn Ctr + P, Chọn This Page"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Hãy kể tên các dịch vụ kết nối Internet?",
+        "options": [
+            "ADSL",
+            "Dial-up",
+            "Tất cả các đáp án",
+            "FTTH"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "In Word để phóng to màn hình soạn thảo văn bản ta thực hiện như thế nào?",
+        "options": [
+            "Click chuột vào nút Maximize tại góc trên cùng bên dưới màn hình",
+            "Click chuột vào nút Maximize tại góc trên cùng bên trên màn hình",
+            "Click chuột vào nút Maximize tại góc trên cùng bên phải màn hình",
+            "Click chuột vào nút Maximize tại góc trên cùng bên trái màn hình"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Thiết bị xuất để đưa ra kết quả đã xử lý cho người sử dụng. Các thiết bị xuất thông dụng hiện nay là?",
+        "options": [
+            "Máy in, ổ mềm",
+            "Màn hình, màn hình cảm ứng, máy in, loa, tai nghe",
+            "Màn hình, ổ mềm",
+            "Màn hình, ổ cứng"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Mạng LAN là mạng kết nối các máy tính?",
+        "options": [
+            "Cùng một hệ điều hành",
+            "Ở cách nhau một khoảng cách lớn",
+            "Ở gần nhau",
+            "Không dùng chung một giao thức"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Để xoá một hàng, bôi đen hàng và chọn?",
+        "options": [
+            "Home\\Delete\\Clear",
+            "Insert\\Delete\\Worksheet",
+            "Home\\Delete\\Delete Sheet Columns",
+            "Home\\Delete\\Delete Sheet Rows"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Cấu trúc một địa chỉ thư điện tử?",
+        "options": [
+            "Tên miền@Tên người dùng",
+            "Tất cả đều sai",
+            "Tên người dùng@Tên miền",
+            "Tên miền.Tên người dùng"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Dịch vụ công trực tuyến là gì?",
+        "options": [
+            "Là dịch vụ hành chính công và các dịch vụ khác của cơ quan nhà nước được cung cấp cho công dân trên môi trường mạng",
+            "Là dịch vụ hành chính công và các dịch vụ khác của cơ quan nhà nước được cung cấp cho các tổ chức, cá nhân trong mạng nội bộ của đơn vị",
+            "Là dịch vụ hành chính công và các dịch vụ khác của cơ quan nhà nước được cung cấp cho các tổ chức, cá nhân trên môi trường mạng",
+            "Là dịch vụ hành chính công và các dịch vụ khác của cơ quan nhà nước được cung cấp cho doanh nghiệp trên môi trường mạng"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Trong hệ điều hành Windows, để thay đổi lại cách biểu diễn ngày/giờ, sử dụng công cụ nào sau đây?",
+        "options": [
+            "Date and Time",
+            "Region and Language",
+            "System Infomations",
+            "Display"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "In Powerpoint, cách nào để in mỗi Slides trên một trang in?",
+        "options": [
+            "File/ Print/ Settings/ 1 Slide",
+            "File/ Print/ Outline",
+            "File/ Print/ 2 Slides",
+            "File/ Print/ Notes Page"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Chương trình được sử dụng để xem các trang Web được gọi là gì?",
+        "options": [
+            "Bộ duyệt Web",
+            "Trình duyệt Web",
+            "Phần mềm xem Web",
+            "Chương trình xem Web"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Trong các phần mềm sau đâu là phần mềm có thể dùng để soạn thảo văn bản?",
+        "options": [
+            "Microsoft Word (1)",
+            "LibreOffice Writer(2)",
+            "Cả (1)+(2)+(3)",
+            "OpenOffice Write(3)"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Cách đặt mật khẩu cho file Excel?",
+        "options": [
+            "File\\Save\\Tools\\Web Option",
+            "File\\Save\\Tools\\Properties",
+            "File\\Save\\Tools\\General Options",
+            "Không có đáp án đúng"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Google Chrome là gì?",
+        "options": [
+            "Trình duyệt web",
+            "Thiết bị kết nối các mạng trên Internet",
+            "Bộ giao thức",
+            "1 chuẩn mạng cục bộ"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "In Powerpoint, cách nào để xóa một khung văn bản đã chọn?",
+        "options": [
+            "Kích chuột trái vào khung văn bản cần xóa/Delete",
+            "Kích chuột phải vào khung văn bản cần xóa/Delete",
+            "Kích chuột trái vào khung văn bản cần xóa/Insert",
+            "Kích đúp chuột trái vào khung văn bản cần xóa/Cut"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Các tệp, thư mục trong USB, khi xóa thì đối tượng sẽ được lưu ở đâu?",
+        "options": [
+            "Có thể được phục hồi khi mở My Documents",
+            "Có thể được phục hồi khi mở Computer",
+            "Lưu ở Recycle Bin",
+            "Xóa khỏi máy tính"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Để soạn một thư điện tử mới trong Gmail, bạn chọn nút nào?",
+        "options": [
+            "Compose",
+            "Attachment",
+            "Check Mail",
+            "Reply"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Để chọn toàn bộ các ô trên bảng tính Excel ta nhấn tổ hợp phím:",
+        "options": [
+            "Ctrl + Alt + Shift",
+            "Ctrl + Alt +Space",
+            "Ctrl + A",
+            "Ctrl + Alt"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "In Word để chèn vào văn bản ký hiệu ® ta thực hiện các bước:",
+        "options": [
+            "Insert/ Symbol/ More Symbols/ Webdings",
+            "Insert/ Symbol/ More Symbols/ Special Character",
+            "Insert/ Symbol/ More Symbols/ Symbol/ Special Character",
+            "Insert/ Symbol/ More Symbols/ Wingdings"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Trong Microsoft Excel, cách nào để mở hộp thoại thiết lập các thông số in bảng tính?",
+        "options": [
+            "Ctrl + P",
+            "Atl + P",
+            "Print Screen",
+            "Ctrl + Print Screen"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "In PowerPoint, mẫu bố cục (Layout) Two Content có bao nhiêu placeholder?",
+        "options": [
+            "3",
+            "2",
+            "4",
+            "5"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "In Word thẻ Insert/ nhóm Illustrations/Picture có chức năng",
+        "options": [
+            "Chèn biểu đồ",
+            "Chèn bảng",
+            "Chèn hình ảnh",
+            "Chèn ký tự đặc biệt"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "In Powerpoint, cách nào để thay đổi màu nền của hình shape?",
+        "options": [
+            "Format/Shape Fill",
+            "Design/Shape Fill",
+            "Format/Shape Styles",
+            "Home/Theme Colors"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Muốn định dạng trang in theo hướng chiều ngang trang giấy ta chọn:",
+        "options": [
+            "Page Layout\\Landscape",
+            "Tất cả đều sai",
+            "Page Layout\\ Orientation\\Portrait",
+            "Page Layout\\ Orientation\\landscape"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Khi đang soạn thảo văn bản sử dụng bộ gõ tiếng Việt Unikey, tổ hợp phím Ctrl + Shift có chức năng gì?",
+        "options": [
+            "Chuyển chế độ bảng mã Unicode sang TCVN3",
+            "Chuyển chế độ gõ tiếng Anh sang tiếng Việt hoặc ngược lại tiếng Việt sang tiếng Anh",
+            "Đóng bảng điều khiển chương trình gõ tiếng Việt",
+            "Tắt chương trình gõ tiếng Việt"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "In PowerPoint, để thêm phần ghi chú cho trang thuyết trình, ta sử dụng kiểu hiển thị nào sau đây?",
+        "options": [
+            "Slide Sorter và Normal",
+            "Notes Page và Normal",
+            "Notes Page và Slide Sorter",
+            "Notes Page và Reading View"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Khi đang trình diễn trong PowerPoint, muốn kết thúc phiên trình diễn, ta thực hiện:",
+        "options": [
+            "Nháy phải chuột, rồi chọn Exit",
+            "Nháy phải chuột, rồi chọn End Show",
+            "Nháy phải chuột, rồi chọn Screen",
+            "Nháy phải chuột, rồi chọn Return"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "In Word để lưu văn bản hiện thời thành một tên mới ta thực hiện:",
+        "options": [
+            "File/Save As",
+            "Home/Save",
+            "File/Save",
+            "Home/Save As"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Tuỳ chọn nào là mô tả tốt nhất về phần mềm mã nguồn mở?",
+        "options": [
+            "Phần mềm được sử dụng để mở một loạt tập tin cụ thể",
+            "Phần mềm được phát triển bởi hai hay nhiều cá nhân",
+            "Phần mềm với mã nguồn có sẵn và có thể được sửa đổi bởi bất cứ ai",
+            "Một tuỳ chọn phần mềm mà người dùng có thể mua mã nguồn các ứng dụng"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Để hoàn tác trả lại trạng thái trước của tài liệu vừa làm ta chọn:",
+        "options": [
+            "Back",
+            "Delete",
+            "Redo",
+            "Undo"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Phím tắt để cắt một đối tượng vào ClipBoard là gì?",
+        "options": [
+            "Ctrl+M",
+            "Ctrl+Z",
+            "Ctrl+V",
+            "Ctrl+X"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Để truy nhập hệ thống trợ giúp trên PowerPoint sử dụng phím hay tổ hợp phím nào ?",
+        "options": [
+            "ESC",
+            "Ctrl + H",
+            "Alt + Tab",
+            "F1"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Đâu là một địa chỉ IP hợp lệ?",
+        "options": [
+            "192.168.0.280",
+            "10.10.257.0",
+            "10.10.18.20",
+            "192.168.1.280"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "In Excel sau khi nhập công thức sau: =\"123\"-\"23\" ta có kết quả?",
+        "options": [
+            "123",
+            "100",
+            "#VALUE!",
+            "23"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "ISP là thuật ngữ dùng cho các công ty có thể cung cấp cho bạn quyền truy cập sử dụng Internet, vậy ISP là viết tắt của:",
+        "options": [
+            "Không có phương án đúng",
+            "Internet Super Provider",
+            "Internet Server Provider",
+            "Internet Service Provider"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Trong Powerpoint, cách nào để chèn biểu đồ vào Slide?",
+        "options": [
+            "Insert/ Diagram",
+            "Insert/ Chart",
+            "Insert/ Picture/ Organization/ Chart",
+            "Insert/ Video"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Trong khi soạn thảo email nếu muốn gởi kèm file chúng ta Nhấn vào nút?",
+        "options": [
+            "attachment",
+            "send",
+            "save",
+            "copy"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "In Word để thêm chú thích (footnote) ta thực hiện:",
+        "options": [
+            "Vào Page Layout/ Chọn Insert Footnote",
+            "Vào References/ Chọn Insert Footnote",
+            "Vào Insert/ Chọn Insert Footnote",
+            "Vào Review/ Chọn Insert Footnote"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Để tắt máy tính đúng cách ta chọn?",
+        "options": [
+            "Nhấn nút Start ở góc dưới bên trái màn hình nền, chọn mục Shut down",
+            "Bấm nút Reset trên hộp máy",
+            "Tắt nguồn điện",
+            "Bấm nút Power trên hộp máy"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Chức năng lọc trong hộp thư đến không thể sắp xếp thư theo trình tự nào?",
+        "options": [
+            "Sắp xếp thư theo dung lượng file đính kèm",
+            "Sắp xếp thư theo ngày nhận",
+            "Sắp xếp thư theo chủ đề",
+            "Sắp xếp thư theo người gửi"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "In PowerPoint, Chèn chữ nghệ thuật WordArt?",
+        "options": [
+            "Vào Slide / WordArt",
+            "Vào Insert / Insert WordArt",
+            "Vào Home / Insert WordArt",
+            "Vào Insert / WordArt"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "In Powerpoint, để chuyển tập tin trình diễn sang dạng video?",
+        "options": [
+            "File / Save As/ Save As Type/ Windows Media Video",
+            "File / Save As/ Save As Type/ PowerPoint Presentation",
+            "File / Save As/ Save As Type/ Word",
+            "File / Save As/ Save As Type/ PDF"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Để thiết lập chế độ nghỉ màn hình (Screen Saver) trong Windows 7, ta sử dụng công cụ nào sau đây trong Control Panel?",
+        "options": [
+            "Không có đáp án đúng",
+            "Display",
+            "Taskbar and Start Menu",
+            "Device Manager"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "In Word muốn gõ được dấu % từ bàn phím ta làm thế nào",
+        "options": [
+            "Ấn số 5",
+            "Giữ phím Alt và ấn số 5",
+            "Giữ phím Shift và ấn số 5",
+            "Giữ phím Ctrl và ấn số 5"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Trong PowerPoint, thao tác nào sau đây để mở một bài thuyết trình đồng thời trên hai của sổ ?",
+        "options": [
+            "Vào Review/New Windows",
+            "Vào Home/New Windows",
+            "Vào Data/New Windows",
+            "Vào View/New Windows"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "CPU là gì?",
+        "options": [
+            "Thiết bị lưu trữ của máy tính",
+            "Thiết bị nhập liệu của máy tính",
+            "Bộ xử lý trung tâm của máy tính",
+            "Thiết bị hiển thị của máy tính"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Chế độ hiển thị nào chỉ cho phép hiển thị văn bản để đọc, không được sửa?",
+        "options": [
+            "Full Screen Reading",
+            "Page Layout",
+            "Web Layout",
+            "Print Layout"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Một trong những thuật ngữ sau không phải dùng để chỉ một thành phần của Excel?",
+        "options": [
+            "WorkBook",
+            "Workdocument",
+            "WorkSheet",
+            "WorkSpace"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "In Word để chèn một bảng (Table) vào văn bản ta làm thế nào?",
+        "options": [
+            "Vào Tab Home/ Table/ Insert Table/ Gõ số hàng số cột",
+            "Vào Tab View/ Table/ Insert Table/ Gõ số hàng số cột",
+            "Vào Tab Insert/ Insert Table/ Gõ số hàng số cột",
+            "Vào Tab Insert/ Table/ Insert Table/ Gõ số hàng số cột"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "In Excel, hàm Month có nghĩa là?",
+        "options": [
+            "Lấy ra tháng",
+            "Lấy ra năm",
+            "Cả ba phương án đều sai",
+            "Lấy ra ngày"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Để cài đặt máy tnh ta cần có những gì?",
+        "options": [
+            "Máy in",
+            "Driver, máy tính, máy in đã kết nối với máy tính",
+            "Mạng internet",
+            "Máy tính xách tay"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Trong Microsoft Excel, tại ô A2 có dữ liệu \"1Hanoi2\". Sử dụng Fill hand để điền dữ liệu đến các ô B2, C2, D2, E2; tại ô E2 nhận được kết quả nào?",
+        "options": [
+            "1Hanoi5",
+            "1Hanoi4",
+            "1Hanoi3",
+            "1Hanoi6"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Trên trang Web Google, để tìm các trang Web nói về cách trồng hoa Phong Lan, chúng ta nên gõ cụm từ nào là tốt nhất:",
+        "options": [
+            "\"phonglan\"",
+            "phong+lan",
+            "phong lan",
+            "\" trồng hoa phong lan\""
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Virus máy tính có khả năng gì?",
+        "options": [
+            "Lây lan qua màn hình",
+            "Lây lan qua máy quét",
+            "Lây lan qua máy in",
+            "Tự sao chép để lây nhiễm"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "In Word để loại bỏ các đường gạch chân màu đỏ hoặc màu xanh xuất hiện trong văn bản tiếng Việt ta làm như sau:",
+        "options": [
+            "Vào File/ Proofing/Trong mục When correcting spelling and Gramma in Word bỏ tích chọn tất cả các lựa chọn",
+            "Vào Home/ Option/Proofing/ Trong mục When correcting spelling and Gramma in Word bỏ tích chọn tất cả các lựa chọn",
+            "Vào File/ Option/ Trong mục When correcting spelling and Gramma in Word bỏ tích chọn tất cả các lựa chọn",
+            "Vào File/ Option/Proofing/ Trong mục When correcting spelling and Gramma in Word bỏ tích chọn tất cả các lựa chọn"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Phát biểu nào sau đây là đúng?",
+        "options": [
+            "Phần mềm là tập hợp của các thiết bị nhập như máy scan, bàn phím, chuột,…",
+            "Phần mềm là một tập hợp những câu lệnh được viết bằng một hoặc nhiều ngôn ngữ lập trình, và các dữ liệu hay tài liệu liên quan nhằm tự động thực hiện một số nhiệm vụ hay chức năng",
+            "Phần mềm là tập hợp của các thiết bị lưu trữ như ổ cứng, đĩa mềm, USB,…",
+            "Phần mềm là tập hợp của các thiết bị xuất như màn hình, máy ín, máy chiếu,…"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Kể tên các loại bộ nhớ trong?",
+        "options": [
+            "Đĩa cứng (Hard disk)",
+            "Bộ nhớ truy cập ngẫu nhiên (RAM) và bộ nhớ chỉ đọc (ROM)",
+            "Bộ nhớ chỉ đọc (ROM)",
+            "Bộ nhớ truy cập ngẫu nhiên (RAM)"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Trong Windows, muốn tạo 1 thư mục mới trên ổ đĩa D:\\ ta thực hiện",
+        "options": [
+            "Edit - New - Folder",
+            "Insert - New - Folder",
+            "Chuột phải chọn New - Folder",
+            "File - New - Shortcut"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "In Powerpoint, thao tác File / Option / Save / Default file location dùng để làm gì?",
+        "options": [
+            "Thiết lập thư mục lưu trữ mặc định",
+            "Thiết lập theme cho toàn bộ Slide",
+            "Thiết lập thông số cho toàn bộ Slide",
+            "Thiết lập các thông số cho các trang in"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Khi phím Caps Lock trên bàn phím sáng, sẽ cho kết quả:",
+        "options": [
+            "Tất cả các câu đều có in hoa đầu câu",
+            "Tất cả các chữ đầu dòng in đậm",
+            "Tất cả các câu đều có in hoa đầu câu và tự tạo dấu chấm kết thúc câu",
+            "Tất cả các kí tự khi soạn thảo đều viết hoa"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Trong bảng tính Microsoft Excel, tại ô A2 gõ vào công thức =MAX(3,14,-25,5) cho kết quả:",
+        "options": [
+            "3",
+            "14",
+            "-25",
+            "5"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Trong bảng tính Excel, tại ô A2 có sẵn dãy kí tự \"1Danang2\". Nếu sử dụng Fill để điền dữ liệu đến các cột A3, A4, A5,; thì kết quả nhận được tại ô A5 là:",
+        "options": [
+            "5Danang2",
+            "1Danang2",
+            "5Danang6",
+            "1Danang5"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "In Powerpoint, chế độ hiển thị nào cho phép thực hiện sắp xếp lại các Slide?",
+        "options": [
+            "View/ Reading View",
+            "View/ Normal",
+            "View/ Slide Sorter",
+            "View/ Page Layout"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Khi sao chép Shortcut để mở một tệp hoặc thư mục từ máy A sang máy B, thì tại máy B người dùng có thể làm gì?",
+        "options": [
+            "Máy B sẽ bị nhiễm Virus",
+            "Vẫn mở được thư mục",
+            "Máy B sẽ không đọc được tệp hoặc thư mục",
+            "Không mở được thư mục hoặc tệp"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "In Internet Explorer phiên bản 7 hoặc mới hơn, phím tắt chuyển đến Tab liền kề bên trái?",
+        "options": [
+            "Ctrl+Shift+Tab",
+            "Ctrl+Tab",
+            "Alt+Shift+Tab",
+            "Alt+Tab"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Phím tắt nào dùng để đóng cửa sổ hiện hành?",
+        "options": [
+            "F1",
+            "Tab+F9",
+            "F7",
+            "Alt+F4"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "In Internet Explorer phiên bản 7 hoặc mới hơn, phím tắt Ctrl + Tab dùng để làm gì?",
+        "options": [
+            "Chuyển đến Tab liền kề bên bên phải",
+            "Trở về trang chủ",
+            "Thêm 1 tab mới",
+            "Thoát khỏi trình duyệt web"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Trong Microsoft Excel, phương án nào dưới đây là địa chỉ hỗn hợp?",
+        "options": [
+            "A12",
+            "$A$12",
+            "A12$",
+            "$A12"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Địa chỉ nào không phải là địa chỉ trang web hợp lệ?",
+        "options": [
+            "mail.google.com",
+            "da/dang. com",
+            "www.thanhnien.com.vn",
+            "NgoiSao.net"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Thiết bị nào thực hiện thao tác xuất ra dữ liệu trong số các thiết bị sau: Màn hình, máy in, bàn phím, máy chiếu, ổ đĩa mềm, chuột, loa, máy quét?",
+        "options": [
+            "Bàn phím, chuột, máy quét, máy in",
+            "Màn hình, Máy in, máy chiếu, loa",
+            "Máy in, màn hình, máy quét, chuột",
+            "Màn hình, ổ đĩa cứng, ổ đĩa mềm, bàn phím"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Phần mở rộng mặc định của tệp được tạo bằng Microsoft Excel 2013 là gì?",
+        "options": [
+            "XXLS",
+            "XLSX",
+            "XSLX",
+            "XLXS"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "In Powerpoint, thao tác File/Close dùng để làm gì?",
+        "options": [
+            "Sao chép file hiện tại",
+            "Xóa file hiện tại",
+            "Đóng file hiện tại",
+            "Lưu file hiện tại"
+        ],
+        "correct": 2
+    }
+    [
+    {
+        "q": "Tại D2 có công thức \"=B1+C1\", khi sao chép sang ô E2 thì E2 có công thức là:",
+        "options": [
+            "C1+D2",
+            "B1+D1",
+            "C2+D2",
+            "C1+D1"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Bộ gõ nào hỗ trợ gõ tiếng việt trong hệ điều hành Windows 7?",
+        "options": [
+            "Unikey",
+            "Không có đáp án đúng",
+            "Google Voice Inout",
+            "Laban Key"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Trong Powerpoint, thoát khỏi chương trình bằng cách?",
+        "options": [
+            "Vào File/Close",
+            "Nhấn F5",
+            "Nhấn Ctrl + F5",
+            "Nhấn tổ hợp phím Alt + F4"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "ROM là viết tắt của từ gì?",
+        "options": [
+            "Random Only Memory",
+            "Read One Memory",
+            "Random One Memory",
+            "Read Only Memory"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Khi đã thiết lập khóa cửa sổ pop-up của 1 trang web:",
+        "options": [
+            "Bạn phải gửi thông báo tới quản trị trang web nếu muốn hiển thị lại",
+            "Bạn phải cài đặt lại trình duyệt mới hiển thị được cửa sổ pop-up",
+            "Toàn bộ pop-up của tất cả các trang web không được hiển thị",
+            "Bạn có thể tự thiết lập mở khóa trong trường hợp cần thiết"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Mục nào sau đây bị thiếu sẽ không thể gửi được?",
+        "options": [
+            "Chủ đề",
+            "Chữ ký email",
+            "Địa chỉ email người nhận",
+            "Nội dung"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Trong Word để tạo khoảng cách đoạn ta làm thế nào?",
+        "options": [
+            "Tab Home/ nhóm Clipboard/ cửa sổ Paragraph/ Spacing/ Indentation",
+            "Tab Home/ nhóm Clipboard/ cửa sổ Paragraph/ Spacing/ chỉnh sửa thông số của Before và After",
+            "Tab Home/ nhóm Paragraph/ cửa sổ Paragraph/ chọn Spacing/ chỉnh sửa thông số của Before và After",
+            "Tab Home/ nhóm Clipboard/ cửa sổ Paragraph/ Spacing/ Line Spacing"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Các thành phần cơ bản của 1 máy tính?",
+        "options": [
+            "CPU, các thiết bị lưu trữ, bộ nhớ, các thiết bị nhập và các thiết bị xuất dữ liệu",
+            "CPU, bộ nhớ, các thiết bị nhập dữ liệu",
+            "Bộ nhớ, các thiết bị nhập, thiết bị xuất dữ liệu và con người",
+            "CPU, các thiết bị lưu trữ, bộ nhớ"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Các biểu tượng nào sau đây trên nền Desktop của hệ điều hành Windows 7 được gọi là biểu tượng Shortcut?",
+        "options": [
+            "Không có đáp án đúng",
+            "Microsoft Word, My Computer, Unikey",
+            "Microsoft Word, Micrsoft Excel, Unikey",
+            "My Computer, My Documents, Recycle Bin"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Các đối tượng đồ họa trong Word nằm trong nhóm nào?",
+        "options": [
+            "Thẻ Insert/ nhóm Illustrations",
+            "Thẻ Design/ nhóm Illustrations",
+            "Thẻ Design/ nhóm Pictures",
+            "Thẻ Home/ nhóm Illustrations"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Trong bảng tính Excel, để sửa dữ liệu trong một ô tính mà không cần nhập lại, ta thực hiện:",
+        "options": [
+            "F5",
+            "F3",
+            "F4",
+            "F2"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Trong Powerpoint, thao tác nào sau đây để tạo hiệu ứng bóng mờ cho đoạn văn bản được chọn?",
+        "options": [
+            "Vào Insert/Text Shadow",
+            "Vào Home/Text Shadow",
+            "Vào Format/Text Effects/Shadow",
+            "Vào View/Text Shadow"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Word hỗ trợ các loại thụt đầu dòng nào",
+        "options": [
+            "Hanging (3)",
+            "Left (2)",
+            "Tất cả các kiểu (1), (2) và (3) đều đúng",
+            "First line (1)"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Theo nguyên tắc quản lý file, thư mục của hệ điều hành Windows, phát biểu nào sau đây không đúng?",
+        "options": [
+            "Trong một file có thể chứa các file và thư mục con khác",
+            "Trong một file có thể không chứa thông tin",
+            "Trong một thư mục có thể chứa các file và thư mục con khác",
+            "Không có đáp án đúng"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Trong Word để đặt mật khẩu cho văn bản ta làm thế nào:",
+        "options": [
+            "Vào Home/ Info/Chọn Protect Document/ Encrypt with Password",
+            "Vào View/ Info/Chọn Protect Document/ Encrypt with Password",
+            "Vào File/ Info/Chọn Protect Document/ Encrypt with Password",
+            "Vào Insert/ Info/Chọn Protect Document/ Encrypt with Password"
+        ],
+        "correct": 2
+    }
+    [
+    {
+        "q": "Trong Microsoft Excel, công thức sau trả về giá trị nào: = IF(5 >= 5, \"Không được tuyển dụng\")",
+        "options": [
+            "Công thức sai vì trong Excel không có phép toán",
+            "Công thức sai vì thiếu đối số trong hàm IF",
+            "True",
+            "Không được tuyển dụng"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Trong Word làm thế nào để thiết lập được khoảng cách dòng văn bản",
+        "options": [
+            "Tab Home/ nhóm Clipboard/ cửa sổ Paragraph/ Spacing/ Line Spacing",
+            "Tab Home/ nhóm Font/ cửa sổ Paragraph/ Spacing/ Line Spacing",
+            "Tab Home/ nhóm Clipboard/ cửa sổ Paragraph/ Spacing/ Indentation",
+            "Tab Home/ nhóm Paragraph/ cửa sổ Paragraph/ Spacing/ Line Spacing"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Trang tìm kiếm Google có thể cho ra kết quả tìm kiếm theo?",
+        "options": [
+            "Tất cả các đáp án trên",
+            "Website",
+            "Hình ảnh",
+            "Video"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Công cụ tìm kiếm thông tin trên Internet hiện nay",
+        "options": [
+            "Google",
+            "Coccoc",
+            "Tất cả đều đúng",
+            "Bing"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Trong Powerpoint, thao tác File/Open dùng để làm gì?",
+        "options": [
+            "Đóng 1 bản trình bày (Presentation) có sẵn trong máy tính",
+            "Mở 1 bản trình bày (Presentation) có sẵn trong máy tính",
+            "Xóa 1 bản trình bày (Presentation) có sẵn trong máy tính",
+            "Lưu 1 bản trình bày (Presentation) có sẵn trong máy tính"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Tin nhắn dạng pop-up có tác động",
+        "options": [
+            "Hoàn toàn không gây nguy hiểm và khó chịu cho người dùng",
+            "Gây nguy hiểm cho hệ thống",
+            "Vừa gây khó chịu cho người dùng vừa có khả năng gây nguy hiểm cho hệ thống",
+            "Không gây nguy hiểm cho hệ thống nhưng gây khó chịu cho người dùng"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Hãy kể tên một số hệ điều hành?",
+        "options": [
+            "Linux, Windows, Mac OS",
+            "Linux, Turbo",
+            "Windows, Max",
+            "Mac OS, Window"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Có bao nhiêu cách thoát khỏi một chương trình ứng dụng trong hệ điều hành Windows 7?",
+        "options": [
+            "3",
+            "1",
+            "2",
+            "4"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Phát biểu nào sau đây là đúng?",
+        "options": [
+            "Phần mềm mã nguồn mở không cho phép phân phối lại",
+            "Phần mềm mã nguồn mở không có bảo hành",
+            "Phần mềm mã nguồn mở không có bản quyền",
+            "Phần mềm mã nguồn mở gây hại cho người sử dụng"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Để tránh lây lan virus qua email, người dùng nên làm gì?",
+        "options": [
+            "Không tải tập tin từ email khi không cần thiết (3)",
+            "Không mở email của người lạ (2)",
+            "Quét virus trước khi mở file gắn kèm trong email (1)",
+            "Tất cả đáp án (1), (2) và (3) đều đúng"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Trong Microsoft Excel, công thức =COUNT(19,11,4) sẽ trả về kết quả là bao nhiêu?",
+        "options": [
+            "34",
+            "19",
+            "0",
+            "3"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Trong Word để thay đổi lề trang văn bản, ta thực hiện",
+        "options": [
+            "Tab Page Layout/ nhóm Page Setup/ Size",
+            "Tab Page Layout/ nhóm Page Setup/ Design",
+            "Tab Page Layout/ nhóm Paper Setup/ Margins",
+            "Tab Page Layout/ nhóm Page Setup/ Orientation"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Để sắp xếp tất cả các cửa sổ văn bản Microsoft Word đang mở trên màn hình máy tính chúng ta thực hiện:",
+        "options": [
+            "Review/ Window/ Arrange All",
+            "View/ Window/ Arrange All",
+            "Home/ Window/ Arrange All",
+            "File/ Window/ Arrange All"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Trong Powerpoint, cách nào để xóa 1 Slide đã được chọn?",
+        "options": [
+            "Kích chuột phải vào Slide muốn xóa/Delete Slide",
+            "Kích chuột phải vào Slide muốn xóa/Duplicate Slide",
+            "Kích chuột phải vào Slide muốn xóa/New Slide",
+            "Kích chuột phải vào Slide muốn xóa/Add Section"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Kí hiệu nào sau đây bắt buộc phải có trong một địa chỉ Email?",
+        "options": [
+            "Kí hiệu &",
+            "Kí hiệu $",
+            "Kí hiệu %",
+            "Kí hiệu @"
+        ],
+        "correct": 3
+    }
+    [
+    {
+        "q": "Sheet được chèn thêm vào bảng tính sẽ nằm ở vị trí:",
+        "options": [
+            "Sau sheet đang mở",
+            "Phía sau tất cả các sheet",
+            "Trước tất cả các sheet",
+            "Trước sheet đang mở"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Phát biểu nào sau đây là sai?",
+        "options": [
+            "Phần mềm mã nguồn mở là phần mềm miễn phí",
+            "Phần mềm mã nguồn mở là phần mềm phải mua bản quyền để sử dụng",
+            "Phần mềm mã nguồn mở cho phép người dùng được chia sẻ cho người khác",
+            "Phần mềm mã nguồn mở cho phép người dùng được sửa mã nguồn"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Phát biểu nào sau đây về thư điện tử (email) là đúng?",
+        "options": [
+            "Email vận chuyển qua nhân viên bưu điện",
+            "Địa chỉ Email trùng với tên trong chứng minh nhân dân",
+            "Email là viết tắt của từ Electronic mail, có nghĩa là thư điện tử",
+            "Chi phí cao"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Muốn sắp xếp các biểu tượng trên desktop theo tên, ta chọn chuột phải lên nền desktop/chọn Sort by và chọn",
+        "options": [
+            "Date Modified",
+            "Name",
+            "Item Type",
+            "Size"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Trong PowerPoint, mỗi bài thuyết trình có tối đa là bao nhiêu Slide Master ?",
+        "options": [
+            "1",
+            "4",
+            "2",
+            "Không giới hạn"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Trong hệ điều hành Windows, để thực hiện chọn các tệp/thư mục liền nhau trong danh sách file/thư mục cần thực hiện thao tác nào sau đây?",
+        "options": [
+            "Kích chuột tại file đầu, giữ phím Ctrl sau đó kích chuột tại file cuối",
+            "Kích chuột phải tại file đầu, giữ phím F4 sau đó kích chuột tại file cuối",
+            "Kích chuột tại file đầu, giữ phím Shift sau đó kích chuột tại file cuối",
+            "Kích chuột tại file đầu, giữ phím Alt sau đó kích chuột tại file cuối"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Trong bảng tính Excel công thức Round(7475.47,-2) trả về kết quả bao nhiêu?",
+        "options": [
+            "7475.47",
+            "7480",
+            "7475",
+            "7500"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Trong Word tổ hợp phím Ctrl+J dùng để làm gì?",
+        "options": [
+            "Căn giữa văn bản",
+            "Căn văn bản đều hai bên",
+            "Căn lề phải văn bản",
+            "Căn lề trái văn bản"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Trong Microsoft Word để thay đổi khoảng cách giữa các ký tự, ta thực hiện:",
+        "options": [
+            "Ctrl+D/Advance/Trong mục Scale chọn Expanded hoặc Condensed",
+            "Ctrl+D/Advance/Trong mục By chọn Expanded hoặc Condensed",
+            "Ctrl+D/Advance/Trong mục Number form chọn Expanded hoặc Condensed",
+            "Ctrl+D/Advance/Trong mục Spacing chọn Expanded hoặc Condensed"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Trong Excel khi sử dung hàm SUM ta có thể:",
+        "options": [
+            "Sử dụng tối đa là 1 tham số",
+            "Sử dụng tối đa là 255 tham số",
+            "Sử dụng tối đa là 2 tham số",
+            "Không sử dụng tham số nào"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "MB (Megabyte) là đơn vị đo gì?",
+        "options": [
+            "Đo dung lượng của thiết bị lưu trữ như đĩa cứng",
+            "Đo tốc độ của nguồn máy tính",
+            "Độ phân giải màn hình",
+            "Đo tốc độ mạng"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Hệ điều hành nào sau đây không sử dụng cho máy tính để bàn?",
+        "options": [
+            "Android",
+            "LINUX",
+            "Windows 7",
+            "Windows XP"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Trong Powerpoint, để thoát file hiện hành, ta làm thế nào?",
+        "options": [
+            "File/Open",
+            "File/Edit",
+            "File/Close",
+            "File/Save"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Lựa chọn nào chỉ ra tiện ích của tệp tin nén?",
+        "options": [
+            "Tệp tin nén có kích thước nhỏ hơn kích thước của tệp tin ban đầu và thông tin ban đầu không bị mất",
+            "Nội dung của tệp tin RAR xem được ở bất kì máy tính nào mà không cần bất kì phần mềm cụ thể nào",
+            "Ai cũng mở được mà không cần mật khẩu",
+            "Tệp tin ban đầu có dung lượng nhỏ hơn dung lượng của tệp tin nén"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "\"Link\" trên trang web có nghĩa là?",
+        "options": [
+            "Liên kết đến 1 liên kết khác",
+            "Liên kết đến 1 trang web khác",
+            "Liên kết",
+            "Tất cả đều đúng"
+        ],
+        "correct": 0
+    }
+    [
+    {
+        "q": "Nút Stop trên cửa số trình duyệt web dùng để làm gì?",
+        "options": [
+            "Ngừng tải nội dung trang Web",
+            "Chuyển đến một liên kết khác",
+            "Về trang chủ",
+            "Đóng trình duyệt Web"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Trong Powerpoint, thanh công cụ truy cập nhanh có tên là?",
+        "options": [
+            "Quick Toolbar Access",
+            "Toolbar Quick Access",
+            "Access Quick Toolbar",
+            "Quick Access Toolbar"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Email đã soạn thảo và đính kèm một file 20Mbs, sau đó người gửi nhấn lệnh gửi đi thì email sẽ lưu ở đâu trước?",
+        "options": [
+            "Inbox",
+            "Outbox",
+            "Draft",
+            "Spam"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Phát biểu nào về chức năng của thùng rác (Recycle Bin) là đúng?",
+        "options": [
+            "Lưu các tệp tin bị xoá từ ổ cứng và ổ đĩa mạng được đặt ở nơi khác",
+            "Chỉ lưu các tệp tin bị xoá từ ổ đĩa cứng",
+            "Lưu trữ tất cả các tệp bị xoá bởi người dùng",
+            "Chỉ lưu trữ các tệp tin bị xoá từ ổ cứng và các thiết bị lưu trữ di động"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Phát biểu nào là đúng khi nói đến bộ nhớ RAM và ROM??",
+        "options": [
+            "RAM và ROM là hai bộ nhớ truy cập ngẫu nhiên",
+            "Bộ nhớ RAM không bị xoá khi máy tính đã tắt. Bộ nhớ ROM bị xoá khi máy tính tắt",
+            "Bộ nhớ RAM là bộ nhớ đọc và ghi, trong khi ROM là bộ nhớ chỉ đọc",
+            "Bộ nhớ ROM thường được dùng bởi các chương trình ứng dụng để lưu trữ tạm thời. Bộ nhớ RAM được dùng để lưu các file dữ liệu"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Trong Word để tạo đường viền cho trang đầu tiên trong văn bản ta thực hiện:",
+        "options": [
+            "Mở hộp thoại Border and Shading/ Trong mục Apply to chọn This section-All except first page",
+            "Mở hộp thoại Border and Shading/ Trong mục Apply to chọn This section-First Page Only",
+            "Mở hộp thoại Border and Shading/ Trong mục Apply to chọn Whole Document",
+            "Mở hộp thoại Border and Shading/ Trong mục Apply to chọn This section"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "HTML là một ngôn ngữ đánh dấu được thiết kế ra để tạo nên các trang web với các mẩu thông tin được trình bày trên World Wide Web. Vậy HTML là cụm từ viết tắt Tiếng Anh nào?",
+        "options": [
+            "HyperText Mobile Language",
+            "HyperText Markup Language",
+            "Hybrid Markup Language",
+            "Hybrid Mobile Language"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Trong hệ điều hành Windows, xâu kí tự nào dưới đây không thể dùng làm tên tệp?",
+        "options": [
+            "Baitap.pas",
+            "http://vtv.vn",
+            "Anh.bmp",
+            "Giaymoi.doc"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "1 Kilobyte bằng?",
+        "options": [
+            "1024 byte",
+            "1000 bit",
+            "1024 bit",
+            "1000 byte"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Nút “Home” trên trang web có nghĩa là",
+        "options": [
+            "Đi đến trang trước",
+            "Không có ý nghĩa gì, chỉ để trang trí",
+            "Đi đến trang chủ",
+            "Đi đến nhà"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "CPU làm những công việc chủ yếu nào?",
+        "options": [
+            "Lưu trữ dữ liệu",
+            "Xuất dữ liệu",
+            "Nhập dữ liệu",
+            "Xử lý dữ liệu"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Các cách nào sau đây cho phép tải lại một trang web?",
+        "options": [
+            "Nhấp vào biểu tượng Refresh trên thanh công cụ trình duyệt",
+            "Cả 3 đều đúng",
+            "Nhấn F5",
+            "Nhấp chuột phải chọn Reload (Tải lại)"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Trong Word, để đính kèm văn bản vào Email ta thực hiện:",
+        "options": [
+            "Vào File/Save & Send/ Send Using E_mail",
+            "Vào View/Save & Send/ Send Using E_mail",
+            "Vào Home/Save & Send/ Send Using E_mail",
+            "Vào Insert/Save & Send/ Send Using E_mail"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Trong Word để đổ màu cho một ô trong bảng ta thực hiện?",
+        "options": [
+            "Chọn ô cần đổ màu/Vào Home/ Layout/ Chọn biểu tượng Shading",
+            "Chọn ô cần đổ màu/Vào Table Tools/ Layout/ Chọn biểu tượng Shading",
+            "Chọn ô cần đổ màu/Vào Home/ Design/ Chọn biểu tượng Shading",
+            "Chọn ô cần đổ màu/Vào Table Tools/ Design/ Chọn biểu tượng Shading"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Trong Powerpoint, tổ hợp phím Shift + Alt + F9 được sử dụng để?",
+        "options": [
+            "Tất cả đều sai",
+            "Tắt thanh thước kẻ",
+            "Bật hoặc Tắt thanh thước kẻ",
+            "Bật thanh thước kẻ"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Trong PowerPoint, thao tác nào sau đây để bổ sung mẫu giao diện của tập tin trình diễn hiện tại vào chương trình?",
+        "options": [
+            "Vào Design / More / Save Current Theme .",
+            "Vào File / More / Save Current Theme.",
+            "Vào Insert / More / Save Current Theme.",
+            "Vào Home / More / Save Current Theme ."
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Trong Powerpoint, để thêm 1 slide giống slide được chọn ta dùng tố hợp phím lệnh nào sau đây?",
+        "options": [
+            "ALT + H + I + D",
+            "ALT + H + E + D",
+            "ALT + H + E + I",
+            "ALT + H + D + I"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Hãy cho biết tổ hợp phím tắt để định dạng chữ đậm trong Microsoft Excel?",
+        "options": [
+            "Ctrl + X",
+            "Ctrl + B",
+            "Ctrl + U",
+            "Ctrl + C"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Thao tác để di chuyển đến một sheet khác trong cùng một tập tin?",
+        "options": [
+            "Nhấn phím F5 và số thứ tự của các sheet",
+            "Nhấn phím F2 và số thứ tự của các sheet",
+            "Nhấn phím F3 và số thứ tự của các sheet",
+            "Nhấn chuột lên tên sheet cần di chuyển đến hoặc nhấn tổ hợp phím Ctrl + PgUp hoặc Ctrl + PgUp"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Giấy phép sử dụng phần mềm có thể thiết lập tuỳ chọn nào?",
+        "options": [
+            "Tự do để chuyển chương trình cho các bên thứ ba",
+            "Giá chuyển nhượng các quyền",
+            "Người sử dụng tự do quảng bá chính họ là tác giả của phần mềm",
+            "Tự do kinh doanh trên bản sao giấy phép"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Làm cách nào để di chuyển Sheet2 ra trước Sheet1",
+        "options": [
+            "Format > Sheet > Move, chọn đúng đến vị trí mong muốn",
+            "Chọn Sheet2 và kéo đến vị trí mong muốn",
+            "Chọn Tools > Sheet > Move, và chọn đúng đến vị trí mong muốn",
+            "Double tab Sheet2 và kéo đến vị trí mong muốn"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Phần cứng máy tính là gì?",
+        "options": [
+            "Cấu tạo của phần mềm về mặt logic",
+            "Cả 3 phương án đều sai",
+            "Cấu tạo của phần mềm về mặt vật lý",
+            "Các bộ phận cụ thể của máy tính về mặt vật lý như màn hình, chuột, bàn phím,..."
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Trong Excel hàm dùng để chuyển chuỗi kí tự số sang số là hàm nào trong các hàm sau?",
+        "options": [
+            "Value()",
+            "Mid()",
+            "Right()",
+            "Left()"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Trong Microsoft Excel, công thức =MAX(30,10,65,5) nhận được kết quả là bao nhiêu?",
+        "options": [
+            "135",
+            "110",
+            "65",
+            "120"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Trong Word tổ hợp phím Ctrl + Z dùng để:",
+        "options": [
+            "Đóng cửa sổ đang mở",
+            "Hủy thao tác",
+            "Quay lại thao tác trước thao tác hiện hành.",
+            "Đóng tập tin đang mở"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Trong hệ điều hành Windows, muốn chọn tất cả các đối tượng trong một cửa sổ, ta sử dụng cách nào sau đây?",
+        "options": [
+            "Không có đáp án đúng",
+            "Nhấn tổ hợp phím Ctrl + A",
+            "Nhấn tổ hợp phím Alt + Tab",
+            "Nhấn tổ hợp phím Ctrl + Shift + A"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Muốn xem được trang web, máy tính của bạn cần phải cài đặt",
+        "options": [
+            "Một chương trình duyệt web",
+            "Microsoft-Word",
+            "Outlook Express",
+            "Microsoft-FronPage"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Trong quá trình sử dụng trình duyệt Firefox, muốn xóa toàn bộ lịch sử duyệt web, người dùng có thể thao tác như thế nào?",
+        "options": [
+            "Vào History chọn Recently Closed Tab",
+            "Vào History chọn Restore Closed Tab",
+            "Vào View chon Restore Tabs",
+            "Vào History chọn Clear Recent History"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Tệp hoặc thư mục có thuộc tính chỉ đọc là thuộc tính nào?",
+        "options": [
+            "Read Only",
+            "Hidden",
+            "Modify",
+            "Delete"
+        ],
+        "correct": 0
+    },
+    {
+        "q": "Trong Word muốn hiển thị đường biên văn bản ta thực hiện",
+        "options": [
+            "View/Options/Advanced/đánh dấu lựa chọn Show Text Boundaries",
+            "File/Options/Advanced/đánh dấu lựa chọn Show Text Boundaries",
+            "Insert/Options/Advanced/đánh dấu lựa chọn Show Text Boundaries",
+            "Home/Options/Advanced/đánh dấu lựa chọn Show Text Boundaries"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Bạn nhận được một bức thư điện tử chứa tệp tin đính kèm mà bạn không nhận biết ra, bạn sẽ xử lý thế nào trong tình huống này để đảm bảo an toàn?",
+        "options": [
+            "Mở tệp tin đó ra để kiểm tra loại tệp tin",
+            "Quét tệp tin bằng chương trình chống virus",
+            "Lưu bản sao tệp tin này vào đĩa cứng và mở bản sao này",
+            "Chuyển thư này cho người không có chuyên ngành công nghệ thông tin xem"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Thiết bị nào không thể thiếu trong một máy tính?",
+        "options": [
+            "Máy in",
+            "Ổ đĩa CD",
+            "Ổ đĩa mềm",
+            "CPU"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Trong Powerpoint, cách nào để trình diễn từ slide đầu tiên?",
+        "options": [
+            "Ctrl + F5",
+            "Shift + F5",
+            "Alt + F5",
+            "F5"
+        ],
+        "correct": 3
+    },
+    {
+        "q": "Trong Microsoft Excel kết quả của công thức =COUNT(“a”,”b”,2,3) + COUNTA(“a”,”b”,0,1) là?",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Tệp tin có phần mở rộng là RAR, ZIP cho ta biết là?",
+        "options": [
+            "File video",
+            "File nén",
+            "File văn bản",
+            "File thực thi"
+        ],
+        "correct": 1
+    },
+    {
+        "q": "Tính lương tại ô K6 = mức lương cơ bản * hệ số lương, làm tròn đơn vị nghìn",
+        "options": [
+            "J6*$k11",
+            "MOD(J6*K$11;3)",
+            "ROUND(J6*$K$11;-3)",
+            "ROUND(J6*K11;0)"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Nguyên tắc tổ chức file và thư mục trong hệ điều hành Windows 7 dựa trên cấu trúc nào sau đây?",
+        "options": [
+            "Cấu trúc lặp",
+            "Cấu trúc đồ thị",
+            "Cấu trúc cây",
+            "Cấu trúc chu trình"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Trong Microsoft Excel, phương án nào dưới đây là địa chỉ tuyệt đối?",
+        "options": [
+            "A12",
+            "A$12$",
+            "$A$12",
+            "$12$A"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Mỗi thiết bị khi tham gia vào một mạng máy tính nào đó cũng đều có",
+        "options": [
+            "GPS",
+            "Địa chỉ nhà",
+            "Địa chỉ IP",
+            "Mã sản phẩm"
+        ],
+        "correct": 2
+    },
+    {
+        "q": "Trong Powerpoint, cách nào để thay đổi kiểu ký hiệu Bullet?",
+        "options": [
+            "Home/Bullet",
+            "Home/Numbering",
+            "Insert/ Symbol",
+            "Insert/Bullet"
+        ],
+        "correct": 0
+    }
+]
